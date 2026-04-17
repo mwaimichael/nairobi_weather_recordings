@@ -1,4 +1,6 @@
 pandas
 sqlalchemy
 pprint
-requests 
+requests
+psycopg2
+asyncpg 
